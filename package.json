@@ -1,0 +1,26 @@
+{
+  "name": "electron-tut-for-beginners",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IanJPeek/electron-tut-for-beginners.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IanJPeek/electron-tut-for-beginners/issues"
+  },
+  "homepage": "https://github.com/IanJPeek/electron-tut-for-beginners#readme",
+  "dependencies": {
+    "electron": "^7.1.10",
+    "electron-reload": "^1.5.0",
+    "save": "^2.4.0"
+  }
+}
